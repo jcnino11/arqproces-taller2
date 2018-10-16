@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="paquetes cobros"
+    id="02585a5b-9a83-48dc-b685-bc7415f265a2">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_4c7d8b1c-e229-4e4d-9e5f-42a8da2fad7f.xml#4c7d8b1c-e229-4e4d-9e5f-42a8da2fad7f"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_9cf14c61-018c-45d5-ac1b-6bda3c295a60.xml#9cf14c61-018c-45d5-ac1b-6bda3c295a60"/>
+</archimate:FlowRelationship>

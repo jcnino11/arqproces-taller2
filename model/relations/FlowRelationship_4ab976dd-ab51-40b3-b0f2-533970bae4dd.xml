@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="respeusta cobros"
+    id="4ab976dd-ab51-40b3-b0f2-533970bae4dd">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_9cf14c61-018c-45d5-ac1b-6bda3c295a60.xml#9cf14c61-018c-45d5-ac1b-6bda3c295a60"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_84845038-8509-47c0-9210-740cf7743a86.xml#84845038-8509-47c0-9210-740cf7743a86"/>
+</archimate:FlowRelationship>

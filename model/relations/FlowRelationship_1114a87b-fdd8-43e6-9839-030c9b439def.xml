@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="glosas"
+    id="1114a87b-fdd8-43e6-9839-030c9b439def">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_84845038-8509-47c0-9210-740cf7743a86.xml#84845038-8509-47c0-9210-740cf7743a86"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_1fb79ea9-be46-41f6-9211-dc0755dea5a7.xml#1fb79ea9-be46-41f6-9211-dc0755dea5a7"/>
+</archimate:FlowRelationship>
